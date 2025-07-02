@@ -19,4 +19,4 @@ display trello cards with the related members on a stylish website
 ```
 ## Support
 
-Discord: vnzwtf
+NO SUPPORT 
